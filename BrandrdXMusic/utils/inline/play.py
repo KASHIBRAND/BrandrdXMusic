@@ -68,10 +68,10 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Paapuji789"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/DOPAMINE_HANNAH"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/+_qPchBV5z4VjMjM1"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/+jcvUnNVqpNliMDE1"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -90,10 +90,10 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Paapuji789"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/DOPAMINE_HANNAH"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/+_qPchBV5z4VjMjM1"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/+jcvUnNVqpNliMDE1"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -245,10 +245,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Paapuji789"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/DOPAMINE_HANNAH"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/+_qPchBV5z4VjMjM1"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/+jcvUnNVqpNliMDE1"
             ),
         ],
 
